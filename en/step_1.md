@@ -2,11 +2,11 @@ Add a sprite to act as a button.
 
 ![](images/add-sprite.png)
 
-Tip: any sprite could be a button but there are already some button sprites in Scratch that you can use.
+**Tip:** any sprite could be a button but there are already some button sprites in Scratch that you can use.
 
 ![](images/button-sprites.png)
 
-Click on the `Variables`{:class="block3variables"} blocks menu and select the **Make a Variable** button.
+Click on the `Variables`{:class="block3variables"} Blocks menu and select the **Make a Variable** button.
 
 Give the `variable`{:class="block3variables"} a name that is easy to recognise.
 
@@ -32,6 +32,6 @@ change [score v] by (1)
 
 ```blocks3
 when this sprite clicked
-ask [what is your name?] and wait 
+ask [What is your name?] and wait 
 set [name v] to (answer)
 ```
