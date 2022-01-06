@@ -1,7 +1,7 @@
-speed
+velocidad
 
-score
+puntaje
 
-name
+nombre
 
-What is your name?
+¿Cuál es tu nombre?
