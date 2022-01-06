@@ -1,7 +1,7 @@
-speed
+vitesse
 
 score
 
-name
+nom
 
-What is your name?
+Quel est ton nom ?
