@@ -1,7 +1,7 @@
-speed
+snelheid
 
 score
 
-name
+naam
 
-What is your name?
+Hoe heet jij?
