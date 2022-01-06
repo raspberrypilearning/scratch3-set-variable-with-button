@@ -1,7 +1,7 @@
-speed
+cyflymder
 
-score
+sgôr
 
-name
+enw
 
-What is your name?
+Beth yw dy enw?
