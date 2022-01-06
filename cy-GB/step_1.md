@@ -1,34 +1,34 @@
-Add a sprite to act as a button.
+Ychwanegu corlun i weithredu fel botwm.
 
 ![](images/add-sprite.png)
 
-**Tip:** any sprite could be a button but there are already some button sprites in Scratch that you can use.
+**Awgrym:** mae unrhyw gorlun yn gallu bod yn fotwm, ond mae rhai corluniau botwm yn Scratch eisoes y galli di eu defnyddio.
 
 ![](images/button-sprites.png)
 
-Click on the `Variables`{:class="block3variables"} Blocks menu and select the **Make a Variable** button.
+Clicia ar y ddewislen Blociau `Newidynnau`{:class="block3variables"} a dewis y botwm **Creu Newidyn**.
 
-Give the `variable`{:class="block3variables"} a name that is easy to recognise.
+Rho enw i'r `newidyn`{:class="block3variables"} sy'n hawdd i'w adnabod.
 
 ![](images/name-variable.png)
 
-You will need to add code to your button sprite to update the `variable`{:class="block3variables"}. You could:
+Bydd angen i ti ychwanegu cod at dy gorlun botwm i ddiweddaru'r `newidyn`{:class="block3variables"}. Gallet ti:
 
-+ Use the button to `set`{:class="block3variables"} the `variable`{:class="block3variables"} to a new value.
++ Defnyddio'r botwm i `osod`{:class="block3variables"} y `newidyn`{:class="block3variables"} i werth newydd.
 
 ```blocks3
 when this sprite clicked
 set [speed v] to (10)
 ```
 
-+ Use the button to `change`{:class="block3variables"} the existing value in a `variable`{:class="block3variables"} by a new amount.
++ Defnyddio'r botwm i `newid`{:class="block3variables"} y gwerth sy'n bodoli mewn `newidyn`{:class="block3variables"} i werth newydd.
 
 ```blocks3
 when this sprite clicked
 change [score v] by (1)
 ```
 
-+ Use the button to `ask`{:class="block3sensing"} a question and `set`{:class="block3variables"} the `variable`{:class="block3variables"} to the `answer`{:class="block3sensing"}.
++ Defnyddio'r botwm i `ofyn`{:class="block3sensing"} cwestiwn a `gosod`{:class="block3variables"} y `newidyn`{:class="block3variables"} i'r `ateb`{:class="block3sensing"}.
 
 ```blocks3
 when this sprite clicked
