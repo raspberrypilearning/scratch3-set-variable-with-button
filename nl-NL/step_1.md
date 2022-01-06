@@ -1,34 +1,34 @@
-Add a sprite to act as a button.
+Voeg een sprite toe om als knop te fungeren.
 
 ![](images/add-sprite.png)
 
-**Tip:** any sprite could be a button but there are already some button sprites in Scratch that you can use.
+**Tip:** elke sprite kan een knop zijn, maar er zijn al enkele knop-sprites in Scratch die je kunt gebruiken.
 
 ![](images/button-sprites.png)
 
-Click on the `Variables`{:class="block3variables"} Blocks menu and select the **Make a Variable** button.
+Klik op het `Variabelen`{:class="block3variables"} blokkenmenu en selecteer de **Maak een Variabele** knop.
 
-Give the `variable`{:class="block3variables"} a name that is easy to recognise.
+Geef de `variabele`{:class="block3variables"} een naam die gemakkelijk te herkennen is.
 
 ![](images/name-variable.png)
 
-You will need to add code to your button sprite to update the `variable`{:class="block3variables"}. You could:
+Je moet code aan je knop sprite toevoegen om de `variabele`{:class="block3variables"} bij te werken. Je zou:
 
-+ Use the button to `set`{:class="block3variables"} the `variable`{:class="block3variables"} to a new value.
++ De knop kunnen gebruiken om de `variabele`{:class="block3variables"} met `maak`{:class="block3variables"} op een nieuwe waarde in te stellen.
 
 ```blocks3
 when this sprite clicked
 set [speed v] to (10)
 ```
 
-+ Use the button to `change`{:class="block3variables"} the existing value in a `variable`{:class="block3variables"} by a new amount.
++ De knop kunnen gebruiken om de `variabele`{:class="block3variables"} met `verander`{:class="block3variables"} met een bepaalde waarde te veranderen.
 
 ```blocks3
 when this sprite clicked
 change [score v] by (1)
 ```
 
-+ Use the button to `ask`{:class="block3sensing"} a question and `set`{:class="block3variables"} the `variable`{:class="block3variables"} to the `answer`{:class="block3sensing"}.
++ De knop kunnen gebruiken om een `vraag`{:class="block3sensing"} te stellen en met `maak`{:class="block3variables"} de `variabele`{:class="block3variables"} op het `antwoord`{:class="block3sensing"} in te stellen.
 
 ```blocks3
 when this sprite clicked
