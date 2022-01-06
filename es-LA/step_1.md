@@ -1,34 +1,34 @@
-Add a sprite to act as a button.
+Agrega un objeto para que actúe como botón.
 
 ![](images/add-sprite.png)
 
-**Tip:** any sprite could be a button but there are already some button sprites in Scratch that you can use.
+**Sugerencia:** cualquier objeto puede ser un botón, pero ya hay algunos objetos de botón en Scratch que puedes usar.
 
 ![](images/button-sprites.png)
 
-Click on the `Variables`{:class="block3variables"} Blocks menu and select the **Make a Variable** button.
+Haz clic en el Menú de bloques `Variables`{:class="block3variables"} y selecciona el botón **Crear una variable**.
 
-Give the `variable`{:class="block3variables"} a name that is easy to recognise.
+Dale un nombre a tu `variable`{:class="block3variables"} que sea fácil de reconocer.
 
 ![](images/name-variable.png)
 
-You will need to add code to your button sprite to update the `variable`{:class="block3variables"}. You could:
+Necesitarás agregar código a tu objeto de botón para actualizar la `variable`{:class="block3variables"}. Tú podrías:
 
-+ Use the button to `set`{:class="block3variables"} the `variable`{:class="block3variables"} to a new value.
++ Usar el botón para `fijar`{:class="block3variables"} la `variable`{:class="block3variables"} con un nuevo valor.
 
 ```blocks3
 when this sprite clicked
 set [speed v] to (10)
 ```
 
-+ Use the button to `change`{:class="block3variables"} the existing value in a `variable`{:class="block3variables"} by a new amount.
++ Usar el botón para `cambiar`{:class="block3variables"} el valor existente en una `variable`{:class="block3variables"} por una nueva cantidad.
 
 ```blocks3
 when this sprite clicked
 change [score v] by (1)
 ```
 
-+ Use the button to `ask`{:class="block3sensing"} a question and `set`{:class="block3variables"} the `variable`{:class="block3variables"} to the `answer`{:class="block3sensing"}.
++ Usar el botón para `preguntar`{:class="block3sensing"} una pregunta y `fijar`{:class="block3variables"} la `variable`{:class="block3variables"} a la `respuesta`{:class="block3sensing"}.
 
 ```blocks3
 when this sprite clicked
