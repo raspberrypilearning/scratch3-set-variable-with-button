@@ -18,7 +18,7 @@ Je moet code aan je knop sprite toevoegen om de `variabele`{:class="block3variab
 
 ```blocks3
 when this sprite clicked
-set [speed v] to (10)
+set [snelheid v] to (10)
 ```
 
 + De knop kunnen gebruiken om de `variabele`{:class="block3variables"} met `verander`{:class="block3variables"} met een bepaalde waarde te veranderen.
@@ -32,6 +32,6 @@ change [score v] by (1)
 
 ```blocks3
 when this sprite clicked
-ask [What is your name?] and wait 
-set [name v] to (answer)
+ask [Hoe heet jij?] and wait 
+set [naam v] to (answer)
 ```
