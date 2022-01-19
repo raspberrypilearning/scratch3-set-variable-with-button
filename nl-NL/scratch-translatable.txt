@@ -1,0 +1,7 @@
+snelheid
+
+score
+
+naam
+
+Hoe heet jij?
