@@ -1,0 +1,7 @@
+vitesse
+
+score
+
+nom
+
+Quel est ton nom ?
