@@ -1,0 +1,7 @@
+velocidad
+
+puntaje
+
+nombre
+
+¿Cuál es tu nombre?
