@@ -1,4 +1,4 @@
-Add a sprite to act as a button.
+أضف كائنًا ليكون بمثابة زر.
 
 ![](images/add-sprite.png)
 
@@ -8,7 +8,7 @@ Add a sprite to act as a button.
 
 Click on the `Variables`{:class="block3variables"} Blocks menu and select the **Make a Variable** button.
 
-Give the `variable`{:class="block3variables"} a name that is easy to recognise.
+امنح المتغير ``{: class = "block3variables"} اسمًا يسهل التعرف عليه.
 
 ![](images/name-variable.png)
 
