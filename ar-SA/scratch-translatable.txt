@@ -1,7 +1,7 @@
-speed
+سرعة
 
-score
+النتيجة
 
-name
+الاسم
 
-What is your name?
+ما أسمك؟
