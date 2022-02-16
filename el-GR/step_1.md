@@ -1,34 +1,34 @@
-Add a sprite to act as a button.
+Πρόσθεσε ένα αντικείμενο που θα λειτουργεί ως κουμπί.
 
 ![](images/add-sprite.png)
 
-**Tip:** any sprite could be a button but there are already some button sprites in Scratch that you can use.
+**Συμβουλή:** οποιοδήποτε αντικείμενο θα μπορούσε να είναι ένα κουμπί, αλλά υπάρχουν ήδη κάποια αντικείμενα κουμπιών στο Scratch που μπορείς να χρησιμοποιήσεις.
 
 ![](images/button-sprites.png)
 
-Click on the `Variables`{:class="block3variables"} Blocks menu and select the **Make a Variable** button.
+Κάνε κλικ στο μενού `Μεταβλητές`{:class="block3variables"} και επίλεξε το κουμπί **Δημιουργία μεταβλητής**.
 
-Give the `variable`{:class="block3variables"} a name that is easy to recognise.
+Δώσε ένα όνομα στη `μεταβλητή `{:class="block3variables"} που να είναι εύκολο να αναγνωριστεί.
 
 ![](images/name-variable.png)
 
-You will need to add code to your button sprite to update the `variable`{:class="block3variables"}. You could:
+Θα χρειαστεί να προσθέσεις κώδικα στο κουμπί του αντικειμένου για να ενημερώσεις τη `μεταβλητή`{:class="block3variables"}. Θα μπορούσες να:
 
-+ Use the button to `set`{:class="block3variables"} the `variable`{:class="block3variables"} to a new value.
++ Χρησιμοποίησε το κουμπί για να`ορίσεις`{:class="block3variables"} μια νέα τιμή στη`μεταβλητή`{:class="block3variables"}.
 
 ```blocks3
 when this sprite clicked
 set [speed v] to (10)
 ```
 
-+ Use the button to `change`{:class="block3variables"} the existing value in a `variable`{:class="block3variables"} by a new amount.
++ Χρησιμοποίησε το κουμπί για να`αλλάξεις`{:class="block3variables"} την υπάρχουσα τιμή στη`μεταβλητή`{:class="block3variables"} κατά ένα ποσό.
 
 ```blocks3
 when this sprite clicked
 change [score v] by (1)
 ```
 
-+ Use the button to `ask`{:class="block3sensing"} a question and `set`{:class="block3variables"} the `variable`{:class="block3variables"} to the `answer`{:class="block3sensing"}.
++ Χρησιμοποίησε το κουμπί για να `ρωτήσεις`{:class="block3sensing"} μια ερώτηση και `δώσε`{:class="block3variables"} στη `μεταβλητή`{:class="block3variables"} την τιμή της `απάντησης`{:class= "block3sensing"}.
 
 ```blocks3
 when this sprite clicked
