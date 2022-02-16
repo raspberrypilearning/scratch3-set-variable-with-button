@@ -2,17 +2,17 @@
 
 ![](images/add-sprite.png)
 
-**Tip:** any sprite could be a button but there are already some button sprites in Scratch that you can use.
+**نصيحة:** أي كائن يمكن أن يكون زر ولكن هناك بالفعل بعض زر في Scratch التي يمكنك استخدامها.
 
 ![](images/button-sprites.png)
 
-Click on the `Variables`{:class="block3variables"} Blocks menu and select the **Make a Variable** button.
+انقر على `متغيرات`{: class = "block3variables"} مجموعة قائمة و ثم**انشاء متغير** زر.
 
 امنح المتغير ``{: class = "block3variables"} اسمًا يسهل التعرف عليه.
 
 ![](images/name-variable.png)
 
-You will need to add code to your button sprite to update the `variable`{:class="block3variables"}. يمكنك:
+ستحتاج إلى إضافة شفرة برمجية إلى الكائن زر لتحديث المتغير ``{: class = "block3variables"}. يمكنك:
 
 + استخدم زر لتعيين ``{: class = "block3variables"} المتغير ``{: class = "block3variables"} إلى قيمة جديدة.
 
@@ -21,7 +21,7 @@ when this sprite clicked
 set [speed v] to (10)
 ```
 
-+ Use the button to `change`{:class="block3variables"} the existing value in a `variable`{:class="block3variables"} by a new amount.
++ استخدم الزر لتعيين ``{: class = "block3variables"} المتغير ``{: class = "block3variables"} إلى قيمة جديدة.
 
 ```blocks3
 when this sprite clicked
