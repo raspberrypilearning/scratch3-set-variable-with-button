@@ -21,7 +21,7 @@ when this sprite clicked
 set [سرعة v] to (10)
 ```
 
-+ استخدم الزر `لتعيين`{:class="block3variables"} `المتغير` إلى قيمة جديدة{:class="block3variables"}.
++ استخدم الزر `لتعيين`{:class="block3variables"} `المتغير`{:class="block3variables"} إلى قيمة جديدة.
 
 ```blocks3
 when this sprite clicked
