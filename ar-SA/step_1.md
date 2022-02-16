@@ -14,7 +14,7 @@
 
 ستحتاج إلى إضافة شفرة برمجية إلى الكائن زر لتحديث `المتغير`{:class="block3variables"} . يمكنك:
 
-+ استخدم زر `لتعيين`{:class="block3variables"} `المتغير` إلى قيمة جديدة{:class="block3variables"}.
++ استخدم زر `لتعيين`{:class="block3variables"} `المتغير`{:class="block3variables"} إلى قيمة جديدة.
 
 ```blocks3
 when this sprite clicked
