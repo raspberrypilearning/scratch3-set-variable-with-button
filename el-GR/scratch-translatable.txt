@@ -1,7 +1,7 @@
-speed
+ταχύτητα
 
-score
+σκορ
 
-name
+όνομα
 
-What is your name?
+Πώς σε λένε;
