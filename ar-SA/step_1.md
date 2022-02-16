@@ -8,20 +8,20 @@
 
 انقر على `متغيرات`{:class="block3variables"} مجموعة قائمة و ثم**انشاء متغير** زر.
 
-امنح {:class="block3variables"}`المتغير` اسمًا يسهل التعرف عليه.
+امنح `المتغير`{:class="block3variables"} اسمًا يسهل التعرف عليه.
 
 ![](images/name-variable.png)
 
 ستحتاج إلى إضافة شفرة برمجية إلى الكائن زر لتحديث `المتغير`{:class="block3variables"} . يمكنك:
 
-+ استخدم زر {:class="block3variables"}`لتعيين` {:class="block3variables"}`المتغير` إلى قيمة جديدة.
++ استخدم زر `لتعيين`{:class="block3variables"} `المتغير` إلى قيمة جديدة{:class="block3variables"}.
 
 ```blocks3
 when this sprite clicked
 set [سرعة v] to (10)
 ```
 
-+ استخدم الزر {:class="block3variables"}`لتعيين` {:class="block3variables"}`المتغير` إلى قيمة جديدة.
++ استخدم الزر `لتعيين`{:class="block3variables"} `المتغير` إلى قيمة جديدة{:class="block3variables"}.
 
 ```blocks3
 when this sprite clicked
