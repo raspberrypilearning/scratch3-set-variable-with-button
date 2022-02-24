@@ -6,7 +6,7 @@
 
 ![](images/button-sprites.png)
 
-انقر على `متغيرات`{: class = "block3variables"} مجموعة قائمة و ثم**انشاء متغير** زر.
+انقر على `متغيرات`{: class = "block3variables"} مجموعة قائمة و ثم **انشاء متغير** زر.
 
 امنح المتغير ``{: class = "block3variables"} اسمًا يسهل التعرف عليه.
 
