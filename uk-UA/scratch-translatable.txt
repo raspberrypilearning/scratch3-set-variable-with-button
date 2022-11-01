@@ -1,7 +1,7 @@
-speed
+швидкість
 
-score
+результат
 
-name
+назва
 
-What is your name?
+Як тебе звати?
