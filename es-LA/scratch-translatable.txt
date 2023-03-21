@@ -4,4 +4,4 @@ puntaje
 
 nombre
 
-¿Cuál es tu nombre?
+¿Cómo te llamas?
