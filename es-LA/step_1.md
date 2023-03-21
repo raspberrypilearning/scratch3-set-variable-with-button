@@ -2,7 +2,7 @@ Agrega un objeto para que actúe como botón.
 
 ![](images/add-sprite.png)
 
-**Sugerencia:** cualquier objeto puede ser un botón, pero ya hay algunos objetos de botón en Scratch que puedes usar.
+**Consejo:** cualquier objeto puede ser un botón, pero ya hay algunos objetos de botón en Scratch que puedes usar.
 
 ![](images/button-sprites.png)
 
@@ -28,7 +28,7 @@ when this sprite clicked
 change [score v] by (1)
 ```
 
-+ Usar el botón para `preguntar`{:class="block3sensing"} una pregunta y `fijar`{:class="block3variables"} la `variable`{:class="block3variables"} a la `respuesta`{:class="block3sensing"}.
++ Usar el botón para `hacer`{:class="block3sensing"} una pregunta y `fijar`{:class="block3variables"} la `variable`{:class="block3variables"} a la `respuesta`{:class="block3sensing"}.
 
 ```blocks3
 when this sprite clicked
