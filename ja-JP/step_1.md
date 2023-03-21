@@ -1,34 +1,34 @@
-Add a sprite to act as a button.
+ボタンとして機能するスプライトを追加します。
 
 ![](images/add-sprite.png)
 
-**Tip:** any sprite could be a button but there are already some button sprites in Scratch that you can use.
+**ヒント:** どのスプライトもボタンにすることができますが、Scratchには使用できるボタンのスプライトが既にいくつかあります。
 
 ![](images/button-sprites.png)
 
-Click on the `Variables`{:class="block3variables"} Blocks menu and select the **Make a Variable** button.
+`変数`{:class="block3variables"}ブロックメニューをクリックして、**変数を作る**ボタンを選びます。
 
-Give the `variable`{:class="block3variables"} a name that is easy to recognise.
+`変数`{:class="block3variables"}にわかりやすい名前を付けます。
 
 ![](images/name-variable.png)
 
-You will need to add code to your button sprite to update the `variable`{:class="block3variables"}. You could:
+`変数`{:class="block3variables"}を更新するには、ボタンのスプライトにコードを追加する必要があります。 こんなことができます。
 
-+ Use the button to `set`{:class="block3variables"} the `variable`{:class="block3variables"} to a new value.
++ ボタンを使用して、`変数`{:class="block3variables"}を新しい値に`設定`{:class="block3variables"}します。
 
 ```blocks3
 when this sprite clicked
 set [speed v] to (10)
 ```
 
-+ Use the button to `change`{:class="block3variables"} the existing value in a `variable`{:class="block3variables"} by a new amount.
++ ボタンを使用して、`変数`{:class="block3variables"}の現在の値を新しい値ずつ`変え`{:class="block3variables"}ます。
 
 ```blocks3
 when this sprite clicked
 change [score v] by (1)
 ```
 
-+ Use the button to `ask`{:class="block3sensing"} a question and `set`{:class="block3variables"} the `variable`{:class="block3variables"} to the `answer`{:class="block3sensing"}.
++ ボタンを使用して、質問を`聞いて`{:class="block3sensing"}、`変数`{:class="block3variables"}をその`答え`{:class="block3sensing"}に`設定`{:class="block3variables"}します。
 
 ```blocks3
 when this sprite clicked
