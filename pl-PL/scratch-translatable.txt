@@ -1,7 +1,7 @@
-speed
+prędkość
 
-score
+wynik
 
-name
+nazwa
 
-What is your name?
+Jak masz na imię?
