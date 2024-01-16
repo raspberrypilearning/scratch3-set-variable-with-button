@@ -1,34 +1,34 @@
-Add a sprite to act as a button.
+Dodaj duszka, który będzie pełnił funkcję przycisku.
 
 ![](images/add-sprite.png)
 
-**Tip:** any sprite could be a button but there are already some button sprites in Scratch that you can use.
+**Wskazówka:** każdy duszek może być przyciskiem, ale w Scratchu istnieje już kilka duszków przycisków, których możesz użyć.
 
 ![](images/button-sprites.png)
 
-Click on the `Variables`{:class="block3variables"} Blocks menu and select the **Make a Variable** button.
+Kliknij `Zmienne`{:class="block3variables"} w menu Bloki i wybierz przycisk **Utwórz zmienną**.
 
-Give the `variable`{:class="block3variables"} a name that is easy to recognise.
+Nadaj `zmiennej`{:class="block3variables"} łatwą do rozpoznania nazwę.
 
 ![](images/name-variable.png)
 
-You will need to add code to your button sprite to update the `variable`{:class="block3variables"}. You could:
+Będziesz musiał dodać kod do ikonki Twojego przycisku (duszka), aby zaktualizować zmienną ``{:class="block3variables"}. Możesz:
 
-+ Use the button to `set`{:class="block3variables"} the `variable`{:class="block3variables"} to a new value.
++ Użyć przycisku, aby `ustawić`{:class="block3variables"} `moją zmienną`{:class="block3variables"} na nową wartość.
 
 ```blocks3
 when this sprite clicked
 set [speed v] to (10)
 ```
 
-+ Use the button to `change`{:class="block3variables"} the existing value in a `variable`{:class="block3variables"} by a new amount.
++ Użyć przycisku, aby `zmienić`{:class="block3variables"} `wynik`{:class="block3variables"} na nową wartość.
 
 ```blocks3
 when this sprite clicked
 change [score v] by (1)
 ```
 
-+ Use the button to `ask`{:class="block3sensing"} a question and `set`{:class="block3variables"} the `variable`{:class="block3variables"} to the `answer`{:class="block3sensing"}.
++ Użyć przycisku, aby `zapytać`{:class="block3sensing"} i `ustawić`{:class="block3variables"} `zmienną`{:class="block3variables"} na `odpowiedź`{:class= „block3sensing”}.
 
 ```blocks3
 when this sprite clicked
