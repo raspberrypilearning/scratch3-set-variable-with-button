@@ -2,6 +2,6 @@ prędkość
 
 wynik
 
-nazwa
+imię
 
 Jak masz na imię?
