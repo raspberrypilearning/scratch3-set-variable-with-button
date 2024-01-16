@@ -12,7 +12,7 @@ Nadaj `zmiennej`{:class="block3variables"} łatwą do rozpoznania nazwę.
 
 ![](images/name-variable.png)
 
-Będziesz musiał dodać kod do ikonki Twojego przycisku (duszka), aby zaktualizować zmienną ``{:class="block3variables"}. Możesz:
+Będziesz musiał dodać kod do ikonki Twojego przycisku (duszka), aby zaktualizować `zmienną`{:class="block3variables"}. Możesz:
 
 + Użyć przycisku, aby `ustawić`{:class="block3variables"} `moją zmienną`{:class="block3variables"} na nową wartość.
 
