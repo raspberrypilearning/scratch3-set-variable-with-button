@@ -1,7 +1,7 @@
-speed
+rychlost
 
-score
+skóre
 
-name
+jméno
 
-What is your name?
+Jak se jmenuješ?
