@@ -12,7 +12,7 @@ Nadaj `zmiennej`{:class="block3variables"} łatwą do rozpoznania nazwę.
 
 ![](images/name-variable.png)
 
-Będziesz musiał dodać kod do ikonki Twojego przycisku (duszka), aby zaktualizować zmienną ``{:class="block3variables"}. Możesz:
+Będziesz musiał dodać kod do ikonki Twojego przycisku (duszka), aby zaktualizować `zmienną`{:class="block3variables"}. Możesz:
 
 + Użyć przycisku, aby `ustawić`{:class="block3variables"} `moją zmienną`{:class="block3variables"} na nową wartość.
 
@@ -28,7 +28,7 @@ when this sprite clicked
 change [score v] by (1)
 ```
 
-+ Użyć przycisku, aby `zapytać`{:class="block3sensing"} i `ustawić`{:class="block3variables"} `zmienną`{:class="block3variables"} na `odpowiedź`{:class= „block3sensing”}.
++ Użyć przycisku, aby `zapytać`{:class="block3sensing"} i `ustawić`{:class="block3variables"} `zmienną`{:class="block3variables"} na `odpowiedź`{:class= "block3sensing"}.
 
 ```blocks3
 when this sprite clicked
