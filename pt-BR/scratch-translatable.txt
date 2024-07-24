@@ -1,0 +1,7 @@
+velocidade
+
+placar
+
+nome
+
+Qual é o seu nome?
