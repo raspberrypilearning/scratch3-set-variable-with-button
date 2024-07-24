@@ -1,34 +1,34 @@
-Add a sprite to act as a button.
+Adicione um sprite para atuar como um botão.
 
 ![](images/add-sprite.png)
 
-**Tip:** any sprite could be a button but there are already some button sprites in Scratch that you can use.
+**Dica:** qualquer sprite pode ser um botão, mas já existem alguns sprites de botão no Scratch que você pode usar.
 
 ![](images/button-sprites.png)
 
-Click on the `Variables`{:class="block3variables"} Blocks menu and select the **Make a Variable** button.
+Clique no menu `Variáveis`{:class="block3variables"} Blocos e selecione o botão **Criar uma variável**.
 
-Give the `variable`{:class="block3variables"} a name that is easy to recognise.
+Dê à `variável `{:class="block3variables"} um nome que seja fácil de reconhecer.
 
 ![](images/name-variable.png)
 
-You will need to add code to your button sprite to update the `variable`{:class="block3variables"}. You could:
+Você precisará adicionar código ao seu sprite de botão para atualizar a `variável`{:class="block3variables"}. Você poderia:
 
-+ Use the button to `set`{:class="block3variables"} the `variable`{:class="block3variables"} to a new value.
++ Use o botão para `definir`{:class="block3variables"} a `variável`{:class="block3variables"} para um novo valor.
 
 ```blocks3
 when this sprite clicked
 set [speed v] to (10)
 ```
 
-+ Use the button to `change`{:class="block3variables"} the existing value in a `variable`{:class="block3variables"} by a new amount.
++ Use o botão para `alterar`{:class="block3variables"} o valor existente em uma `variável`{:class="block3variables"} por uma nova quantia.
 
 ```blocks3
 when this sprite clicked
 change [score v] by (1)
 ```
 
-+ Use the button to `ask`{:class="block3sensing"} a question and `set`{:class="block3variables"} the `variable`{:class="block3variables"} to the `answer`{:class="block3sensing"}.
++ Use o botão para `perguntar`{:class="block3sensing"} a questão e `definir`{:class="block3variables"} a `variável`{:class="block3variables"} na `resposta`{:class="block3sensing"}.
 
 ```blocks3
 when this sprite clicked
