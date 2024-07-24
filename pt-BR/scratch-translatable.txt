@@ -1,7 +1,7 @@
-speed
+velocidade
 
-score
+placar
 
-name
+nome
 
-What is your name?
+Qual é o seu nome?
