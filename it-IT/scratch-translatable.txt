@@ -1,7 +1,7 @@
-speed
+velocità
 
-score
+punteggio
 
-name
+nome
 
-What is your name?
+Come ti chiami?
