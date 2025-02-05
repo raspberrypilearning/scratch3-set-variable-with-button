@@ -1,34 +1,34 @@
-Add a sprite to act as a button.
+Aggiungi uno sprite da usare come pulsante.
 
 ![](images/add-sprite.png)
 
-**Tip:** any sprite could be a button but there are already some button sprites in Scratch that you can use.
+**Suggerimento:** qualsiasi sprite può diventare un pulsante, ma in Scratch trovi già alcuni sprite pronti da usare come pulsanti.
 
 ![](images/button-sprites.png)
 
-Click on the `Variables`{:class="block3variables"} Blocks menu and select the **Make a Variable** button.
+Fai clic sul menu dei blocchi `Variabili`{:class="block3variables"} e seleziona il pulsante **Crea una Variabile**.
 
-Give the `variable`{:class="block3variables"} a name that is easy to recognise.
+Assegna alla `variabile`{:class="block3variables"} un nome facile da riconoscere.
 
 ![](images/name-variable.png)
 
-You will need to add code to your button sprite to update the `variable`{:class="block3variables"}. You could:
+Dovrai aggiungere del codice allo sprite del pulsante per aggiornare la `variabile`{:class="block3variables"}. Potresti:
 
-+ Use the button to `set`{:class="block3variables"} the `variable`{:class="block3variables"} to a new value.
++ Usare il pulsante per `impostare`{:class="block3variables"} la `variabile`{:class="block3variables"} su un nuovo valore.
 
 ```blocks3
 when this sprite clicked
 set [speed v] to (10)
 ```
 
-+ Use the button to `change`{:class="block3variables"} the existing value in a `variable`{:class="block3variables"} by a new amount.
++ Usa il pulsante per `modificare`{:class="block3variables"} il valore esistente in una `variabile`{:class="block3variables"} aggiungendo un nuovo valore.
 
 ```blocks3
 when this sprite clicked
 change [score v] by (1)
 ```
 
-+ Use the button to `ask`{:class="block3sensing"} a question and `set`{:class="block3variables"} the `variable`{:class="block3variables"} to the `answer`{:class="block3sensing"}.
++ Usa il pulsante per `fare`{:class="block3sensing"} una domanda e `impostare`{:class="block3variables"} la `variabile`{:class="block3variables"} sulla `risposta`{:class="block3sensing"}.
 
 ```blocks3
 when this sprite clicked
